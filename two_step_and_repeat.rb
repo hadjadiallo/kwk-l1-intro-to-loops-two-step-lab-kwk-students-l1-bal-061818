@@ -26,13 +26,15 @@ def a_few_more_steps
     puts "turn"
     sleep(1)
   end 
-
-  end
+  
+   end
   # Write a loop that outputs the first two sets of steps in the Two-Step
 end
-
+#how_many_steps
 def how_many_steps?
   # Write a loop that fulfills all criteria from Part 3 of the README.md
+ loop do 
+  steps =  (0)
 end
 
 def break_dance
