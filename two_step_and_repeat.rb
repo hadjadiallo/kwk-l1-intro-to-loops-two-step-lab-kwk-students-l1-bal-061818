@@ -26,6 +26,7 @@ def a_few_more_steps
     puts "turn"
     sleep(1)
   end 
+  a_few_more_steps
   
    end
   # Write a loop that outputs the first two sets of steps in the Two-Step
