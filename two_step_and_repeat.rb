@@ -33,6 +33,7 @@ end
 #how_many_steps
 def how_many_steps?
   # Write a loop that fulfills all criteria from Part 3 of the README.md
+  how_many_steps
  loop do 
   steps =  (0)
 end
